@@ -33,10 +33,10 @@ if (!defined('CONSOLE')) {
 /*
  * Database connection options
  */
-$config['db_host'] = 'localhost';
-$config['db_name'] = 'generate_cart';
-$config['db_user'] = 'generate_cart';
-$config['db_password'] = '123321';
+$config['db_host'] = 'mysql5.7';
+$config['db_name'] = 'shop_db';
+$config['db_user'] = 'root';
+$config['db_password'] = 'root';
 
 $config['database_backend'] = 'mysqli';
 
@@ -58,12 +58,12 @@ $config['table_prefix'] = 'cscart_';
  */
 
 // Host and directory where software is installed on no-secure server
-$config['http_host'] = 'dnemov.cart-power.tech';
+$config['http_host'] = 'localhost';
 $config['http_path'] = '/projects/cp_generate_cart_from_file';
 
 // Host and directory where software is installed on secure server
-$config['https_host'] = 'dnemov.cart-power.tech';
-$config['https_path'] = '/projects/cp_generate_cart_from_file';
+$config['https_host'] = 'localhost';
+$config['https_path'] = '';
 
 /*
  * Misc options

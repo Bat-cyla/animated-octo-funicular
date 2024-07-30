@@ -1,0 +1,36 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:2538:"        <div class="ty-mainbox-simple-container clearfix">
+                    <h2 class="ty-mainbox-simple-title">
+                                                    Блог
+                                
+            </h2>
+                <div class="ty-mainbox-simple-body">    <div class="ty-blog-text-links">
+        <ul>
+                            <li class="ty-blog-text-links__item">
+                    <div class="ty-blog-text-links__date">07/28/2024</div>
+                    <a href="http://localhost/index.php?dispatch=pages.view&amp;page_id=47" class="ty-blog-text-links__a">Мы завезли новые игры для Nintendo Wii!</a>
+                </li>
+                            <li class="ty-blog-text-links__item">
+                    <div class="ty-blog-text-links__date">07/26/2024</div>
+                    <a href="http://localhost/index.php?dispatch=pages.view&amp;page_id=46" class="ty-blog-text-links__a">​Только в нашем магазине! Знаменитые американские палатки WeatherMaster!</a>
+                </li>
+                            <li class="ty-blog-text-links__item">
+                    <div class="ty-blog-text-links__date">07/25/2024</div>
+                    <a href="http://localhost/index.php?dispatch=pages.view&amp;page_id=45" class="ty-blog-text-links__a">Ищете кнопочную Nokia и нигде не можете найти? А у нас они еще есть!</a>
+                </li>
+                            <li class="ty-blog-text-links__item">
+                    <div class="ty-blog-text-links__date">07/25/2024</div>
+                    <a href="http://localhost/index.php?dispatch=pages.view&amp;page_id=44" class="ty-blog-text-links__a">Приехали лучшие произведения легендарного блюзмена B.B.King.</a>
+                </li>
+                            <li class="ty-blog-text-links__item">
+                    <div class="ty-blog-text-links__date">07/24/2024</div>
+                    <a href="http://localhost/index.php?dispatch=pages.view&amp;page_id=43" class="ty-blog-text-links__a">Мы завезли настоящую американскую классику! Круизеры Drifter.</a>
+                </li>
+                    </ul>
+
+                <div class="ty-mtb-s ty-uppercase">
+            <a href="http://localhost/index.php?dispatch=pages.view&amp;page_id=7">посмотреть все</a>
+        </div>
+            </div>
+</div>
+    </div>
+";}s:6:"expiry";i:0;}
